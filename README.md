@@ -1,2 +1,2 @@
-# mushroom_classification
+# Mushroom Classification
 Classify whether the mushroom is edible or posinous.
